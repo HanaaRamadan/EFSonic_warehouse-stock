@@ -1,6 +1,6 @@
 # EFSonic_warehouse-stock
 
-📌 Query: Warehouse Stock & Item Valuation
+📌 Query: Warehouse Stock Analysis (EFSonicData)
 
 Description
 This query generates a warehouse stock report showing available quantities, equivalent quantities, and total valuation including tax. It retrieves multilingual item descriptions and pack details for better readability.
