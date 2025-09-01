@@ -1,0 +1,1 @@
+# EFSonic_warehouse-stock
